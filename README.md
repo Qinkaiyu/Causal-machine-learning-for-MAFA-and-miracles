@@ -1,6 +1,6 @@
 # Supplementary Code
 
-R code for heterogeneous treatment effect (HTE) estimation using three causal machine learning methods:
+R code for XXXX using three causal machine learning methods:
 
 - **R-Lasso**: R-learner with Lasso regularization (glmnet)
 - **R-Boost**: R-learner with gradient boosting (xgboost)
